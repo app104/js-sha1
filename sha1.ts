@@ -1,5 +1,5 @@
 ﻿/*
- * [js-sha1]{@link https://github.com/emn178/js-sha1}
+ * [js-sha1]{@link https://github.com/app104/js-sha1}
  *
  * @version 1.0.0
  * @author septem jsm920@outlook.com
